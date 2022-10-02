@@ -1019,7 +1019,7 @@ section {
 
 .menu .menu-contento a {
   padding-right: 10px;
-  position: absolute;
+  position: relative;
   z-index: 3;
   font-weight: 700;
   color: #433f39!important;
