@@ -693,7 +693,9 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #fffaf3;
+  background: #fff;
+  padding-top: 25px!important;
+  padding-bottom: 0px!important;
 }
 
 .about .content {
@@ -833,10 +835,10 @@ section {
 
 @media (max-width: 992px) {
   .about .content {
-    padding-top: 30px;
+    padding-top: 0px;
   }
   .about .accordion-list {
-    padding-bottom: 30px;
+    padding-bottom: 0px;
   }
 }
 
@@ -906,6 +908,11 @@ section {
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
+
+.menu{
+  padding-top: 25px!important;
+}
+
 .menu #menu-flters {
   padding: 0;
   margin: 0 auto 0 auto;
@@ -1038,6 +1045,7 @@ section {
 --------------------------------------------------------------*/
 .specials {
   overflow: hidden;
+  padding-top: 0px!important;
 }
 
 .specials .nav-tabs {
@@ -1212,7 +1220,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #001e83!important;
+  background-color: #90e0ef!important;
 }
 
 @media (min-width: 1024px) {
@@ -1443,4 +1451,18 @@ section {
   background: #009ade;
   color: #151515;
   text-decoration: none;
+}
+
+/* responsive sobre nosotros */
+
+@media (max-width: 992px) {
+  .visibilidad {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .visibilidadDos {
+    display: none;
+  }
 }
