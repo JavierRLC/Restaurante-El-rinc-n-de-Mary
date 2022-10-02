@@ -1463,6 +1463,6 @@ section {
 
 @media (min-width: 992px) {
   .visibilidadDos {
-    display: block;
+    display: none;
   }
 }
