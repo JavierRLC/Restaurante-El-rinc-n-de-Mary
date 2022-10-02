@@ -693,7 +693,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #fff;
+  background: rgb(255, 0, 0);
   padding-top: 25px!important;
   padding-bottom: 0px!important;
 }
