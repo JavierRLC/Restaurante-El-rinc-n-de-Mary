@@ -982,6 +982,7 @@ section {
 }
 
 .menu .menu-content span {
+  background: #fff;
   position: relative;
   z-index: 3;
   padding: 0 10px;
