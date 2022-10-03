@@ -970,7 +970,7 @@ section {
   padding-right: 10px;
   background: #fff;
   position: relative;
-  z-index: 2;
+  z-index: 3;
   font-weight: 700;
   color: #433f39!important;
   transition: 0.4s all;
