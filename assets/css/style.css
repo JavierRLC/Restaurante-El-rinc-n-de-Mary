@@ -970,7 +970,7 @@ section {
   padding-right: 10px;
   background: #fff;
   position: relative;
-  z-index: 3;
+  z-index: 2;
   font-weight: 700;
   color: #433f39!important;
   transition: 0.4s all;
@@ -984,7 +984,7 @@ section {
 .menu .menu-content span {
   background: #fff;
   position: relative;
-  z-index: 4;
+  z-index: 3;
   padding: 0 10px;
   font-weight: 600;
 }
