@@ -968,7 +968,7 @@ section {
 
 .menu .menu-content a {
   padding-right: 10px;
-  background: #fff;
+  background: rgb(254, 0, 0);
   position: relative;
   z-index: 2;
   font-weight: 700;
